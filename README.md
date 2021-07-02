@@ -1,6 +1,5 @@
 **INTRODUCTION**
 Regression is one of the most important models to follow when we try our hand at prediction, be it the value of something or the predicting the decrease or increase that might take place in the future. Through this project, I am looking to make use of one such algorithm to find the market value of footballers.
-
 I chose this project as it is a combination of two things that I have the most interest in, Machine Learning & Football. This provides me with the opportunity to professionally work on something I have been a follower of since my childhood, outside the world of Tech.
 
 
