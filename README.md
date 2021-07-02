@@ -23,13 +23,11 @@ Using the Regression Models to predict continuous value, we predict the value of
 
 
 _**EVALUATING THE TEST RESULTS:**_
-At this step, we evaluate the test results that we obtained and the graphs we plotted after constructing the model. After the construction of a few graphs, I decreased the number of features being used with the help of the correlation matrix. After the features were narrowed down to 7, I constructed a heatmap and a pairplot.
-This was then followed by the finding of the results of OLS Regression. Since, I narrowed down the number of features being used to seven, the level of clarity in the model increased considerably.
+At this step, we evaluate the test results that we obtained and the graphs we plotted after constructing the model. After the construction of a few graphs, I decreased the number of features being used with the help of the correlation matrix. After the features were narrowed down to 7, I constructed a heatmap and a pairplot. This was then followed by the finding of the results of OLS Regression. Since, I narrowed down the number of features being used to seven, the level of clarity in the model increased considerably.
 In order to compare the results for Ridge, Lasso and Polynomial regression, I had to split my data into train, test and validation sets respectively. The best results are obtained at Degree 2 Polynomial Regression which is then followed by Linear Regression. Results of the Lasso Regression indicate that it was an overfitting problem, while Ridge results are identical to the ones obtained in Linear Regression.
 
 
 _**CONCLUSION:**_
-Here, we take multiple assumptions(5) to compare the models and the actual results to the predicted ones. After plotting relevant graphs and getting the test results, we compare which players are the most overvalued and which players are undervalued.
-Finally, we predict the player’s value based on his stats and data in Fifa21.
+Here, I took multiple assumptions(5) to compare the models and the actual results to the predicted ones. After plotting relevant graphs and getting the test results, I compared which players are the most overvalued and which players are undervalued. Finally, I predicted the player’s value based on his stats and data in Fifa21.
 
 
