@@ -27,7 +27,7 @@ This was then followed by the finding of the results of OLS Regression. Since, I
 In order to compare the results for Ridge, Lasso and Polynomial regression, I had to split my data into train, test and validation sets respectively. The best results are obtained at Degree 2 Polynomial Regression which is then followed by Linear Regression. Results of the Lasso Regression indicate that it was an overfitting problem, while Ridge results are identical to the ones obtained in Linear Regression.
 
 
-**CONCLUSION**__
+_**CONCLUSION**_
 Here, we take multiple assumptions(5) to compare the models and the actual results to the predicted ones. After plotting relevant graphs and getting the test results, we compare which players are the most overvalued and which players are undervalued.
 Finally, we predict the player’s value based on his stats and data in Fifa21.
 
